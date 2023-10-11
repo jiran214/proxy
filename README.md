@@ -7,7 +7,7 @@ vercel现在每月有100GB的免费流量。本人又基于[cloudflare](https://
 我自己的vercel项目部署失败，疑似被ban，各位别直接一键部署了，先fork到自己的仓库改改项目名 删掉readme试试吧。实在不行 移步上面cloudflare项目，cloudflare的格局比较大
 
 ## 部署
-[![Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/jiran214/vercel-reverse-proxy)
+[![Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/jiran214/vercel)
 
 
 ## 使用方法
